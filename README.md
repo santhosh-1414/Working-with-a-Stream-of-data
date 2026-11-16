@@ -1,6 +1,6 @@
 # Working with a Stream of Data
 
-**Course:** PA2577 – Applied Computing and Big Data  
+**Course:** PA2577 – Applied Cloud Computing and Big Data  
 **Assignment:** Working with a Stream of Data
 
 ## Project overview
